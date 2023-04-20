@@ -1,0 +1,4 @@
+- refine=True
+- model.path=/big-lama
+- indir=lama_sample_images
+- outdir=/out
